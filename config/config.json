@@ -1,0 +1,5 @@
+{
+    "token": "ODUxNjkzOTY4MTY4NTgzMTk4.YL7_0Q.rmrJ1cXuAzxMRz3qeGtBHbwS97o",
+    "prefix": "?",
+    "mongodb": "mongodb+srv://Aether:<>@cluster0.moalt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
