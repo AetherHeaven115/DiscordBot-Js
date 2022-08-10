@@ -46,4 +46,4 @@ function requerirhandlers(){
 requerirhandlers();
 
 
-client.login('ODUxNjkzOTY4MTY4NTgzMTk4.YL7_0Q.rmrJ1cXuAzxMRz3qeGtBHbwS97o')
+client.login('TOKEN')
